@@ -1,0 +1,5 @@
+{
+    "rpc_url": "https://bscrpc.com",
+    "block_time": 3,
+    "function": "main.js"
+}
